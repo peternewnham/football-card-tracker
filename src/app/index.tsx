@@ -1,43 +1,44 @@
-import { StyleSheet, Text, View } from 'react-native';
-import { FlashList } from '@shopify/flash-list';
-
-const data = Array.from({ length: 100 }).map((_, i) => ({
-  name: `Player ${i + 1}`,
-}));
+import { CardList } from '../components/CardList';
+import { Cards } from '../data/cards';
+import { StyleSheet, TextInput, View } from 'react-native';
+import { useState } from 'react';
 
 export default function IndexScreen() {
+  const [visibleData, setVisibleData] = useState(Cards);
+  const filterData = (text: string) => {
+    setVisibleData(
+      Cards.filter((card) => {
+        return (
+          card.id.toLowerCase().includes(text) ||
+          card.name.toLowerCase().includes(text) ||
+          card.club.toLowerCase().includes(text) ||
+          card.type.toLowerCase().includes(text)
+        );
+      })
+    );
+  };
   return (
-    <FlashList
-      data={data}
-      estimatedItemSize={200}
-      numColumns={2}
-      renderItem={({ item }) => <Tile name={item.name} />}
-    />
-  );
-}
-
-interface TileProps {
-  name: string;
-}
-const Tile = ({ name }: TileProps) => {
-  return (
-    <View style={styles.tile}>
-      <View style={styles.tileContent}>
-        <Text>{name}</Text>
+    <View style={styles.root}>
+      <View style={styles.searchContainer}>
+        <TextInput style={styles.searchInput} onChangeText={filterData} />
       </View>
+      <CardList data={visibleData} />
     </View>
   );
-};
+}
 
 const styles = StyleSheet.create({
-  tile: {
+  root: {
     flex: 1,
-    height: 200,
-    padding: 5,
   },
-  tileContent: {
-    flex: 1,
+  searchContainer: {
+    marginBottom: 5,
+    paddingLeft: 5,
+    paddingRight: 5,
+  },
+  searchInput: {
     borderWidth: 1,
-    padding: 5,
+    borderColor: '#999',
+    paddingLeft: 5,
   },
 });

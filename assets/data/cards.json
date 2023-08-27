@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "LE01",
+    "name": "Marcus Tavernier",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE01.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE02",
+    "name": "Martin Odegaard",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE02.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE03",
+    "name": "Matthew Cash",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE03.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "LE04",
+    "name": "Mathais Jensen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE04.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE05",
+    "name": "Danny Welbeck",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE05.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "LE06",
+    "name": "Josh Brownhill",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE06.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE07",
+    "name": "Reece James",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE07.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "LE08",
+    "name": "Joachim Andersen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE08.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "LE09",
+    "name": "Jordan Ayew",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE09.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "LE10",
+    "name": "Alex Iwobi",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE10.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE11",
+    "name": "Bobby De Cordova-Reid",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE11.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "LE12",
+    "name": "Virgil Van Dijk",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE12.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "LE13",
+    "name": "Darwin Nunez",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE13.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "LE14",
+    "name": "Amarii Bell",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE14.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "LE15",
+    "name": "Erling Haaland",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE15.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "LE16",
+    "name": "Luke Shaw",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE16.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "LE17",
+    "name": "Bruno Guimares",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE17.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE18",
+    "name": "Alexander Isak",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE18.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE19",
+    "name": "Brennan Johnson",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE19.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "LE20",
+    "name": "Oliver Norwood",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE20.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE21",
+    "name": "Son Heung-Min",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE21.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "LE22",
+    "name": "Jarrod Bowen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE22.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE23",
+    "name": "Nelson Semedo",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE23.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "LE24",
+    "name": "Hwang Hee-Chan",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE24.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "LE25",
+    "name": "Jimmy Floyd Hasselbaink",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE25.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "LE26",
+    "name": "Jamie Carragher",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE26.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "LE27",
+    "name": "Yaya Toure",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE27.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE28",
+    "name": "Eric Cantona",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE28.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE29",
+    "name": "Les Ferdinand",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE29.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE30",
+    "name": "Gabriel Martinelli",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE30.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "LE31",
+    "name": "Douglas Luiz",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE31.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE32",
+    "name": "Bryan Mbeumo",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE32.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "LE33",
+    "name": "Alisson",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE33.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "LE34",
+    "name": "Ruben Dias",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE34.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "LE35",
+    "name": "Casemiro",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE35.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE36",
+    "name": "Kieran Trippier",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE36.png",
+    "club": "Newcastle United",
+    "position": "Defender"
+  },
+  {
+    "id": "LE37",
+    "name": "Harry Kane",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE37.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "LE03SIG",
+    "name": "Matthew Cash",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE03SIG.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "LE04SIG",
+    "name": "Mathais Jensen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE04SIG.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE05SIG",
+    "name": "Danny Welbeck",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE05SIG.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "LE06SIG",
+    "name": "Josh Brownhill",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE06SIG.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE07SIG",
+    "name": "Reece James",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE07SIG.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "LE08SIG",
+    "name": "Joachim Andersen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE08SIG.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "LE10SIG",
+    "name": "Alex Iwobi",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE10SIG.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE11SIG",
+    "name": "Bobby De Cordova-Reid",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE11SIG.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "LE12SIG",
+    "name": "Virgil Van Dijk",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE12SIG.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "LE15SIG",
+    "name": "Erling Haaland",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE15SIG.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "LE16SIG",
+    "name": "Luke Shaw",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE16SIG.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "LE19SIG",
+    "name": "Brennan Johnson",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE19SIG.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "LE21SIG",
+    "name": "Son Heung-Min",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE21SIG.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "LE22SIG",
+    "name": "Jarrod Bowen",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE22SIG.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE25SIG",
+    "name": "Jimmy Floyd Hasselbaink",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE25SIG.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "LE26SIG",
+    "name": "Jamie Carragher",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE26SIG.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "LE27SIG",
+    "name": "Yaya Toure",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE27SIG.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "LE28SIG",
+    "name": "Eric Cantona",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE28SIG.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "LE29SIG",
+    "name": "Les Ferdinand",
+    "type": "Limited Edition",
+    "image": "assets/cards/LE29SIG.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "1",
+    "name": "Bukayo Saka",
+    "type": "Golden Baller",
+    "image": "assets/cards/1.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "2",
+    "name": "Ollie Watkins",
+    "type": "Golden Baller",
+    "image": "assets/cards/2.png",
+    "club": "Aston Villa",
+    "position": "Forward"
+  },
+  {
+    "id": "3",
+    "name": "Eberechi Eze",
+    "type": "Golden Baller",
+    "image": "assets/cards/3.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "4",
+    "name": "Cody Gakpo",
+    "type": "Golden Baller",
+    "image": "assets/cards/4.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "5",
+    "name": "Invincible",
+    "type": "Golden Baller",
+    "image": "assets/cards/5.png",
+    "club": "All",
+    "position": "Forward"
+  },
+  {
+    "id": "6",
+    "name": "Erling Haaland",
+    "type": "Golden Baller",
+    "image": "assets/cards/6.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "7",
+    "name": "Marcus Rashford",
+    "type": "Golden Baller",
+    "image": "assets/cards/7.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "8",
+    "name": "Alexander Isak",
+    "type": "Golden Baller",
+    "image": "assets/cards/8.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "9",
+    "name": "Rodrigo Bentancur",
+    "type": "Golden Baller",
+    "image": "assets/cards/9.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "427",
+    "name": "Marcos Senesi",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/427.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "428",
+    "name": "Yoanne Wissa",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/428.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "429",
+    "name": "Odsonne Edouard",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/429.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "430",
+    "name": "Harry Wilson",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/430.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "431",
+    "name": "George Baldock",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/431.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "432",
+    "name": "Nayef Aguerd",
+    "type": "Adrenalyn Rush",
+    "image": "assets/cards/432.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "376",
+    "name": "Ethan Pinnock",
+    "type": "Aerial Ace",
+    "image": "assets/cards/376.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "377",
+    "name": "Oliver McBurnie",
+    "type": "Aerial Ace",
+    "image": "assets/cards/377.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "378",
+    "name": "Michail Antonio",
+    "type": "Aerial Ace",
+    "image": "assets/cards/378.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "397",
+    "name": "Philip Billing",
+    "type": "Colossus",
+    "image": "assets/cards/397.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "398",
+    "name": "Gabriel Magalhaes",
+    "type": "Colossus",
+    "image": "assets/cards/398.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "399",
+    "name": "Enzo Fernandez",
+    "type": "Colossus",
+    "image": "assets/cards/399.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "400",
+    "name": "James Tarkowski",
+    "type": "Colossus",
+    "image": "assets/cards/400.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "401",
+    "name": "Gabriel Osho",
+    "type": "Colossus",
+    "image": "assets/cards/401.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "402",
+    "name": "Rodrigo",
+    "type": "Colossus",
+    "image": "assets/cards/402.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "403",
+    "name": "Bruno Guimaraes",
+    "type": "Colossus",
+    "image": "assets/cards/403.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "404",
+    "name": "Pierre-Emile Hojbjerg",
+    "type": "Colossus",
+    "image": "assets/cards/404.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "405",
+    "name": "Tomas Soucek",
+    "type": "Colossus",
+    "image": "assets/cards/405.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "460",
+    "name": "Josh Brownhill",
+    "type": "Dynamo",
+    "image": "assets/cards/460.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "461",
+    "name": "Joao Palhinha",
+    "type": "Dynamo",
+    "image": "assets/cards/461.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "462",
+    "name": "Jordan Clarke",
+    "type": "Dynamo",
+    "image": "assets/cards/462.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "463",
+    "name": "Joelinton",
+    "type": "Dynamo",
+    "image": "assets/cards/463.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "406",
+    "name": "Manuel Benson",
+    "type": "Fire",
+    "image": "assets/cards/406.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "407",
+    "name": "Jadon Sancho",
+    "type": "Fire",
+    "image": "assets/cards/407.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "408",
+    "name": "Allan Saint-Maximin",
+    "type": "Fire",
+    "image": "assets/cards/408.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "409",
+    "name": "Richarlison",
+    "type": "Fire",
+    "image": "assets/cards/409.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "410",
+    "name": "Matheus Nunes",
+    "type": "Fire",
+    "image": "assets/cards/410.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "424",
+    "name": "Julio Enciso",
+    "type": "Future Star",
+    "image": "assets/cards/424.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "425",
+    "name": "Rico Lewis",
+    "type": "Future Star",
+    "image": "assets/cards/425.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "426",
+    "name": "Alejandro Garnacho",
+    "type": "Future Star",
+    "image": "assets/cards/426.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "451",
+    "name": "Dominic Solanke",
+    "type": "Game Changer",
+    "image": "assets/cards/451.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "452",
+    "name": "Leandro Trossard",
+    "type": "Game Changer",
+    "image": "assets/cards/452.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "453",
+    "name": "Solly March",
+    "type": "Game Changer",
+    "image": "assets/cards/453.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "454",
+    "name": "Anass Zaroury",
+    "type": "Game Changer",
+    "image": "assets/cards/454.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "455",
+    "name": "Michael Olise",
+    "type": "Game Changer",
+    "image": "assets/cards/455.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "456",
+    "name": "Demarai Gray",
+    "type": "Game Changer",
+    "image": "assets/cards/456.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "457",
+    "name": "Miguel Almiron",
+    "type": "Game Changer",
+    "image": "assets/cards/457.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "458",
+    "name": "Brennan Johnson",
+    "type": "Game Changer",
+    "image": "assets/cards/458.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "459",
+    "name": "Jarrod Bowen",
+    "type": "Game Changer",
+    "image": "assets/cards/459.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "464",
+    "name": "Evan Ferguson",
+    "type": "Hot Shot",
+    "image": "assets/cards/464.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "465",
+    "name": "Mohamed Salah",
+    "type": "Hot Shot",
+    "image": "assets/cards/465.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "466",
+    "name": "Carlton Morris",
+    "type": "Hot Shot",
+    "image": "assets/cards/466.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "467",
+    "name": "Callum Wilson",
+    "type": "Hot Shot",
+    "image": "assets/cards/467.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "411",
+    "name": "Oleksandr Zinchenko",
+    "type": "Ice",
+    "image": "assets/cards/411.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "412",
+    "name": "Thiago Silva",
+    "type": "Ice",
+    "image": "assets/cards/412.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "413",
+    "name": "Jack Grealish",
+    "type": "Ice",
+    "image": "assets/cards/413.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "414",
+    "name": "Son Heung-Min",
+    "type": "Ice",
+    "image": "assets/cards/414.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "433",
+    "name": "Martin Odegaard",
+    "type": "Next Level",
+    "image": "assets/cards/433.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "434",
+    "name": "Virgil Van Dijk",
+    "type": "Next Level",
+    "image": "assets/cards/434.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "435",
+    "name": "Phil Foden",
+    "type": "Next Level",
+    "image": "assets/cards/435.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "436",
+    "name": "Leon Bailey",
+    "type": "Next Level",
+    "image": "assets/cards/436.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "415",
+    "name": "Jorginho",
+    "type": "Playmakers",
+    "image": "assets/cards/415.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "416",
+    "name": "Emiliano Buendia",
+    "type": "Playmakers",
+    "image": "assets/cards/416.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "417",
+    "name": "Pascal Gross",
+    "type": "Playmakers",
+    "image": "assets/cards/417.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "418",
+    "name": "Raheem Stirling",
+    "type": "Playmakers",
+    "image": "assets/cards/418.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "419",
+    "name": "Thiago Alcantara",
+    "type": "Playmakers",
+    "image": "assets/cards/419.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "420",
+    "name": "Bernardo Silva",
+    "type": "Playmakers",
+    "image": "assets/cards/420.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "421",
+    "name": "Bruno Fernandes",
+    "type": "Playmakers",
+    "image": "assets/cards/421.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "422",
+    "name": "Morgan Gibbs-White",
+    "type": "Playmakers",
+    "image": "assets/cards/422.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "423",
+    "name": "Lucas Paqueta",
+    "type": "Playmakers",
+    "image": "assets/cards/423.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "388",
+    "name": "Diego Carlos",
+    "type": "Powerhouse",
+    "image": "assets/cards/388.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "389",
+    "name": "Kristoffer Ajer",
+    "type": "Powerhouse",
+    "image": "assets/cards/389.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "390",
+    "name": "Lewis Dunk",
+    "type": "Powerhouse",
+    "image": "assets/cards/390.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "391",
+    "name": "Benoit Badiashile",
+    "type": "Powerhouse",
+    "image": "assets/cards/391.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "392",
+    "name": "Joachim Andersen",
+    "type": "Powerhouse",
+    "image": "assets/cards/392.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "393",
+    "name": "Elijah Adebayo",
+    "type": "Powerhouse",
+    "image": "assets/cards/393.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "394",
+    "name": "Felipe",
+    "type": "Powerhouse",
+    "image": "assets/cards/394.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "395",
+    "name": "Sander Berge",
+    "type": "Powerhouse",
+    "image": "assets/cards/395.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "396",
+    "name": "Max Kilman",
+    "type": "Powerhouse",
+    "image": "assets/cards/396.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "379",
+    "name": "Scott Twine",
+    "type": "Precision",
+    "image": "assets/cards/379.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "380",
+    "name": "Ben Chilwell",
+    "type": "Precision",
+    "image": "assets/cards/380.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "381",
+    "name": "Dwight McNeil",
+    "type": "Precision",
+    "image": "assets/cards/381.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "382",
+    "name": "Andreas Pereira",
+    "type": "Precision",
+    "image": "assets/cards/382.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "383",
+    "name": "Trent Alexander-Arnold",
+    "type": "Precision",
+    "image": "assets/cards/383.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "384",
+    "name": "Christian Eriksen",
+    "type": "Precision",
+    "image": "assets/cards/384.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "385",
+    "name": "Ivan Perisic",
+    "type": "Precision",
+    "image": "assets/cards/385.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "386",
+    "name": "Said Benrahma",
+    "type": "Precision",
+    "image": "assets/cards/386.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "387",
+    "name": "Ruben Neves",
+    "type": "Precision",
+    "image": "assets/cards/387.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "370",
+    "name": "Neto",
+    "type": "Top Keeper",
+    "image": "assets/cards/370.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "371",
+    "name": "Emiliano Martinez",
+    "type": "Top Keeper",
+    "image": "assets/cards/371.png",
+    "club": "Aston Villa",
+    "position": "Forward"
+  },
+  {
+    "id": "372",
+    "name": "Jordan Pickford",
+    "type": "Top Keeper",
+    "image": "assets/cards/372.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "373",
+    "name": "Bernd Leno",
+    "type": "Top Keeper",
+    "image": "assets/cards/373.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "374",
+    "name": "Ederson",
+    "type": "Top Keeper",
+    "image": "assets/cards/374.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "375",
+    "name": "Jose Sa",
+    "type": "Top Keeper",
+    "image": "assets/cards/375.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "468",
+    "name": "Premier League Trophy",
+    "type": "Premier League Trophy",
+    "image": "assets/cards/468.png",
+    "club": "Premier",
+    "position": "Forward"
+  },
+  {
+    "id": "437",
+    "name": "Rico Henry",
+    "type": "Ultrasonic",
+    "image": "assets/cards/437.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "438",
+    "name": "Kaoru Mitoma",
+    "type": "Ultrasonic",
+    "image": "assets/cards/438.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "439",
+    "name": "Mykhallo Mudryk",
+    "type": "Ultrasonic",
+    "image": "assets/cards/439.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "440",
+    "name": "Antonee Robinson",
+    "type": "Ultrasonic",
+    "image": "assets/cards/440.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "441",
+    "name": "Luis Diaz",
+    "type": "Ultrasonic",
+    "image": "assets/cards/441.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "442",
+    "name": "Illia Zabarnyi",
+    "type": "World Class",
+    "image": "assets/cards/442.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "443",
+    "name": "Johan Gudmundsson",
+    "type": "World Class",
+    "image": "assets/cards/443.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "444",
+    "name": "Cheick Doucoure",
+    "type": "World Class",
+    "image": "assets/cards/444.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "445",
+    "name": "Idrissa Gana Gueye",
+    "type": "World Class",
+    "image": "assets/cards/445.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "446",
+    "name": "Luke Shaw",
+    "type": "World Class",
+    "image": "assets/cards/446.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "447",
+    "name": "Neco Williams",
+    "type": "World Class",
+    "image": "assets/cards/447.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "448",
+    "name": "Anel Ahmedhodzic",
+    "type": "World Class",
+    "image": "assets/cards/448.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "449",
+    "name": "Cristian Romero",
+    "type": "World Class",
+    "image": "assets/cards/449.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "450",
+    "name": "Hwang Hee-Chan",
+    "type": "World Class",
+    "image": "assets/cards/450.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "COIN650",
+    "name": "650 Online Coins",
+    "type": "Online Coins",
+    "image": "assets/cards/COIN650.png",
+    "club": "All",
+    "position": "Forward"
+  },
+  {
+    "id": "10",
+    "name": "Bournemouth Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/10.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "11",
+    "name": "Neto",
+    "type": "Standard",
+    "image": "assets/cards/11.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "12",
+    "name": "Lloyd Kelly",
+    "type": "Standard",
+    "image": "assets/cards/12.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "13",
+    "name": "Chris Mepham",
+    "type": "Standard",
+    "image": "assets/cards/13.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "14",
+    "name": "Adam Smith",
+    "type": "Standard",
+    "image": "assets/cards/14.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "15",
+    "name": "Marcos Sensei",
+    "type": "Standard",
+    "image": "assets/cards/15.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "16",
+    "name": "Illia Zabarnyi",
+    "type": "Standard",
+    "image": "assets/cards/16.png",
+    "club": "Bournemouth",
+    "position": "Defender"
+  },
+  {
+    "id": "17",
+    "name": "Lewis Cook",
+    "type": "Standard",
+    "image": "assets/cards/17.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "18",
+    "name": "David Brooks",
+    "type": "Standard",
+    "image": "assets/cards/18.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "19",
+    "name": "Ryan Christie",
+    "type": "Standard",
+    "image": "assets/cards/19.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "20",
+    "name": "Joe Rothwell",
+    "type": "Standard",
+    "image": "assets/cards/20.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "21",
+    "name": "Marcus Tavernier",
+    "type": "Standard",
+    "image": "assets/cards/21.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "22",
+    "name": "Philip Billing",
+    "type": "Standard",
+    "image": "assets/cards/22.png",
+    "club": "Bournemouth",
+    "position": "Midfielder"
+  },
+  {
+    "id": "23",
+    "name": "Dominic Solanke",
+    "type": "Standard",
+    "image": "assets/cards/23.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "24",
+    "name": "Dango Ouattara",
+    "type": "Standard",
+    "image": "assets/cards/24.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "25",
+    "name": "Antoine Semenyo",
+    "type": "Standard",
+    "image": "assets/cards/25.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "26",
+    "name": "Jaidon Anthony",
+    "type": "Standard",
+    "image": "assets/cards/26.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "27",
+    "name": "Bournemouth Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/27.png",
+    "club": "Bournemouth",
+    "position": "Forward"
+  },
+  {
+    "id": "28",
+    "name": "Arsenal Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/28.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "29",
+    "name": "Aaron Ramsdale",
+    "type": "Standard",
+    "image": "assets/cards/29.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "30",
+    "name": "Ben White",
+    "type": "Standard",
+    "image": "assets/cards/30.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "31",
+    "name": "Gabriel Magalhaes",
+    "type": "Standard",
+    "image": "assets/cards/31.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "32",
+    "name": "William Saliba",
+    "type": "Standard",
+    "image": "assets/cards/32.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "33",
+    "name": "Takehiro Tomiyasu",
+    "type": "Standard",
+    "image": "assets/cards/33.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "34",
+    "name": "Oleksandr Zinchenko",
+    "type": "Standard",
+    "image": "assets/cards/34.png",
+    "club": "Arsenal",
+    "position": "Defender"
+  },
+  {
+    "id": "35",
+    "name": "Thomas Partey",
+    "type": "Standard",
+    "image": "assets/cards/35.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "36",
+    "name": "Bukayo Saka",
+    "type": "Standard",
+    "image": "assets/cards/36.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "37",
+    "name": "Martin Odegaard",
+    "type": "Standard",
+    "image": "assets/cards/37.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "38",
+    "name": "Jorginho",
+    "type": "Standard",
+    "image": "assets/cards/38.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "39",
+    "name": "Fabio Vieira",
+    "type": "Standard",
+    "image": "assets/cards/39.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "40",
+    "name": "Granit Xhaka",
+    "type": "Standard",
+    "image": "assets/cards/40.png",
+    "club": "Arsenal",
+    "position": "Midfielder"
+  },
+  {
+    "id": "41",
+    "name": "Gabriel Jesus",
+    "type": "Standard",
+    "image": "assets/cards/41.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "42",
+    "name": "Gabriel Martinelli",
+    "type": "Standard",
+    "image": "assets/cards/42.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "43",
+    "name": "Eddie Nketiah",
+    "type": "Standard",
+    "image": "assets/cards/43.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "44",
+    "name": "Leandro Trossard",
+    "type": "Standard",
+    "image": "assets/cards/44.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "45",
+    "name": "Arsenal Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/45.png",
+    "club": "Arsenal",
+    "position": "Forward"
+  },
+  {
+    "id": "46",
+    "name": "Aston Villa Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/46.png",
+    "club": "Aston",
+    "position": "Forward"
+  },
+  {
+    "id": "47",
+    "name": "Emiliano Martinez",
+    "type": "Standard",
+    "image": "assets/cards/47.png",
+    "club": "Aston Villa",
+    "position": "Forward"
+  },
+  {
+    "id": "48",
+    "name": "Matthew Cash",
+    "type": "Standard",
+    "image": "assets/cards/48.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "49",
+    "name": "Diego Carlos",
+    "type": "Standard",
+    "image": "assets/cards/49.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "50",
+    "name": "Ezri Konsa",
+    "type": "Standard",
+    "image": "assets/cards/50.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "51",
+    "name": "Tyrone Mings",
+    "type": "Standard",
+    "image": "assets/cards/51.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "52",
+    "name": "Alex Moreno",
+    "type": "Standard",
+    "image": "assets/cards/52.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "53",
+    "name": "Lucas Digne",
+    "type": "Standard",
+    "image": "assets/cards/53.png",
+    "club": "Aston Villa",
+    "position": "Defender"
+  },
+  {
+    "id": "54",
+    "name": "Douglas Luiz",
+    "type": "Standard",
+    "image": "assets/cards/54.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "55",
+    "name": "John McGinn",
+    "type": "Standard",
+    "image": "assets/cards/55.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "56",
+    "name": "Emiliano Buendia",
+    "type": "Standard",
+    "image": "assets/cards/56.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "57",
+    "name": "Philippe Countnho",
+    "type": "Standard",
+    "image": "assets/cards/57.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "58",
+    "name": "Leon Bailey",
+    "type": "Standard",
+    "image": "assets/cards/58.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "59",
+    "name": "Jacob Ramsey",
+    "type": "Standard",
+    "image": "assets/cards/59.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "60",
+    "name": "Boubocar Kamara",
+    "type": "Standard",
+    "image": "assets/cards/60.png",
+    "club": "Aston Villa",
+    "position": "Midfielder"
+  },
+  {
+    "id": "61",
+    "name": "Ollie Watkins",
+    "type": "Standard",
+    "image": "assets/cards/61.png",
+    "club": "Aston Villa",
+    "position": "Forward"
+  },
+  {
+    "id": "62",
+    "name": "Jhon Duran",
+    "type": "Standard",
+    "image": "assets/cards/62.png",
+    "club": "Aston Villa",
+    "position": "Forward"
+  },
+  {
+    "id": "63",
+    "name": "Aston Villa Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/63.png",
+    "club": "Aston",
+    "position": "Forward"
+  },
+  {
+    "id": "64",
+    "name": "Brentford Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/64.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "65",
+    "name": "David Raya",
+    "type": "Standard",
+    "image": "assets/cards/65.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "66",
+    "name": "Aaron Hickey",
+    "type": "Standard",
+    "image": "assets/cards/66.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "67",
+    "name": "Rico Henry",
+    "type": "Standard",
+    "image": "assets/cards/67.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "68",
+    "name": "Ethan Pinnock",
+    "type": "Standard",
+    "image": "assets/cards/68.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "69",
+    "name": "Ben Mee",
+    "type": "Standard",
+    "image": "assets/cards/69.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "70",
+    "name": "Kristoffer Ajer",
+    "type": "Standard",
+    "image": "assets/cards/70.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "71",
+    "name": "Mads Roerslev",
+    "type": "Standard",
+    "image": "assets/cards/71.png",
+    "club": "Brentford",
+    "position": "Defender"
+  },
+  {
+    "id": "72",
+    "name": "Christian Norgaard",
+    "type": "Standard",
+    "image": "assets/cards/72.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "73",
+    "name": "Mathais Jensen",
+    "type": "Standard",
+    "image": "assets/cards/73.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "74",
+    "name": "Josh Dasilva",
+    "type": "Standard",
+    "image": "assets/cards/74.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "75",
+    "name": "Yoane Wissa",
+    "type": "Standard",
+    "image": "assets/cards/75.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "76",
+    "name": "Mikkel Damsgaard",
+    "type": "Standard",
+    "image": "assets/cards/76.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "77",
+    "name": "Shandon Baptiste",
+    "type": "Standard",
+    "image": "assets/cards/77.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "78",
+    "name": "Vitaly Janlet",
+    "type": "Standard",
+    "image": "assets/cards/78.png",
+    "club": "Brentford",
+    "position": "Midfielder"
+  },
+  {
+    "id": "79",
+    "name": "Kevin Schade",
+    "type": "Standard",
+    "image": "assets/cards/79.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "80",
+    "name": "Bryan Mbeumo",
+    "type": "Standard",
+    "image": "assets/cards/80.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "81",
+    "name": "Brentford Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/81.png",
+    "club": "Brentford",
+    "position": "Forward"
+  },
+  {
+    "id": "82",
+    "name": "Brighton And Hove Albion Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/82.png",
+    "club": "Brighton And Hove",
+    "position": "Forward"
+  },
+  {
+    "id": "83",
+    "name": "Jason Steele",
+    "type": "Standard",
+    "image": "assets/cards/83.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "84",
+    "name": "Tariq Lamptey",
+    "type": "Standard",
+    "image": "assets/cards/84.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "85",
+    "name": "Adam Webster",
+    "type": "Standard",
+    "image": "assets/cards/85.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "86",
+    "name": "Lewis Dunk",
+    "type": "Standard",
+    "image": "assets/cards/86.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "87",
+    "name": "Pervis Estupinan",
+    "type": "Standard",
+    "image": "assets/cards/87.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "88",
+    "name": "Joel Veltman",
+    "type": "Standard",
+    "image": "assets/cards/88.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Defender"
+  },
+  {
+    "id": "89",
+    "name": "Solly March",
+    "type": "Standard",
+    "image": "assets/cards/89.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "90",
+    "name": "Pascal Gross",
+    "type": "Standard",
+    "image": "assets/cards/90.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "91",
+    "name": "Adam Lallana",
+    "type": "Standard",
+    "image": "assets/cards/91.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "92",
+    "name": "Kaoru Mitoma",
+    "type": "Standard",
+    "image": "assets/cards/92.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "93",
+    "name": "Moises Caicedo",
+    "type": "Standard",
+    "image": "assets/cards/93.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "94",
+    "name": "Billy Gilmour",
+    "type": "Standard",
+    "image": "assets/cards/94.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "95",
+    "name": "Facundo Buonanotte",
+    "type": "Standard",
+    "image": "assets/cards/95.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Midfielder"
+  },
+  {
+    "id": "96",
+    "name": "Danny Welbeck",
+    "type": "Standard",
+    "image": "assets/cards/96.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "97",
+    "name": "Julio Enciso",
+    "type": "Standard",
+    "image": "assets/cards/97.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "98",
+    "name": "Evan Ferguson",
+    "type": "Standard",
+    "image": "assets/cards/98.png",
+    "club": "Brighton And Hove Albion",
+    "position": "Forward"
+  },
+  {
+    "id": "99",
+    "name": "Brighton And Hove Albion Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/99.png",
+    "club": "Brighton And Hove",
+    "position": "Forward"
+  },
+  {
+    "id": "100",
+    "name": "Burnley Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/100.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "101",
+    "name": "Arljanet Muric",
+    "type": "Standard",
+    "image": "assets/cards/101.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "102",
+    "name": "Charlie Taylor",
+    "type": "Standard",
+    "image": "assets/cards/102.png",
+    "club": "Burnley",
+    "position": "Defender"
+  },
+  {
+    "id": "103",
+    "name": "Connor Roberts",
+    "type": "Standard",
+    "image": "assets/cards/103.png",
+    "club": "Burnley",
+    "position": "Defender"
+  },
+  {
+    "id": "104",
+    "name": "Hjalmar Ekdal",
+    "type": "Standard",
+    "image": "assets/cards/104.png",
+    "club": "Burnley",
+    "position": "Defender"
+  },
+  {
+    "id": "105",
+    "name": "Vitinho",
+    "type": "Standard",
+    "image": "assets/cards/105.png",
+    "club": "Burnley",
+    "position": "Defender"
+  },
+  {
+    "id": "106",
+    "name": "Jordan Beyer",
+    "type": "Standard",
+    "image": "assets/cards/106.png",
+    "club": "Burnley",
+    "position": "Defender"
+  },
+  {
+    "id": "107",
+    "name": "Jack Cork",
+    "type": "Standard",
+    "image": "assets/cards/107.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "108",
+    "name": "Johann Gudmundsson",
+    "type": "Standard",
+    "image": "assets/cards/108.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "109",
+    "name": "Josh Brownhill",
+    "type": "Standard",
+    "image": "assets/cards/109.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "110",
+    "name": "Josh Cullen",
+    "type": "Standard",
+    "image": "assets/cards/110.png",
+    "club": "Burnley",
+    "position": "Midfielder"
+  },
+  {
+    "id": "111",
+    "name": "Jay Rodriguez",
+    "type": "Standard",
+    "image": "assets/cards/111.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "112",
+    "name": "Scott Twine",
+    "type": "Standard",
+    "image": "assets/cards/112.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "113",
+    "name": "Lyle Foster",
+    "type": "Standard",
+    "image": "assets/cards/113.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "114",
+    "name": "Manuel Benson",
+    "type": "Standard",
+    "image": "assets/cards/114.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "115",
+    "name": "Anass Zaroury",
+    "type": "Standard",
+    "image": "assets/cards/115.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "116",
+    "name": "Michael Obafemi",
+    "type": "Standard",
+    "image": "assets/cards/116.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "117",
+    "name": "Burnley Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/117.png",
+    "club": "Burnley",
+    "position": "Forward"
+  },
+  {
+    "id": "118",
+    "name": "Chelsea Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/118.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "119",
+    "name": "Kepa Arrizabalaga",
+    "type": "Standard",
+    "image": "assets/cards/119.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "120",
+    "name": "Benoit Badiashile",
+    "type": "Standard",
+    "image": "assets/cards/120.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "121",
+    "name": "Thiago Silva",
+    "type": "Standard",
+    "image": "assets/cards/121.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "122",
+    "name": "Ben Chilwell",
+    "type": "Standard",
+    "image": "assets/cards/122.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "123",
+    "name": "Reece James",
+    "type": "Standard",
+    "image": "assets/cards/123.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "124",
+    "name": "Kalidou Koulibaly",
+    "type": "Standard",
+    "image": "assets/cards/124.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "125",
+    "name": "Cesar Azpilicueta",
+    "type": "Standard",
+    "image": "assets/cards/125.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "126",
+    "name": "Marc Cucurella",
+    "type": "Standard",
+    "image": "assets/cards/126.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "127",
+    "name": "Wesley Fofana",
+    "type": "Standard",
+    "image": "assets/cards/127.png",
+    "club": "Chelsea",
+    "position": "Defender"
+  },
+  {
+    "id": "128",
+    "name": "Enzo Fernandez",
+    "type": "Standard",
+    "image": "assets/cards/128.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "129",
+    "name": "Mykhallo Mudryk",
+    "type": "Standard",
+    "image": "assets/cards/129.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "130",
+    "name": "Conor Gallagher",
+    "type": "Standard",
+    "image": "assets/cards/130.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "131",
+    "name": "Carney Chukwuemeka",
+    "type": "Standard",
+    "image": "assets/cards/131.png",
+    "club": "Chelsea",
+    "position": "Midfielder"
+  },
+  {
+    "id": "132",
+    "name": "Raheem Sterling",
+    "type": "Standard",
+    "image": "assets/cards/132.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "133",
+    "name": "Kai Havertz",
+    "type": "Standard",
+    "image": "assets/cards/133.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "134",
+    "name": "Noni Madueke",
+    "type": "Standard",
+    "image": "assets/cards/134.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "135",
+    "name": "Chelsea Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/135.png",
+    "club": "Chelsea",
+    "position": "Forward"
+  },
+  {
+    "id": "136",
+    "name": "Crystal Palace Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/136.png",
+    "club": "Crystal",
+    "position": "Forward"
+  },
+  {
+    "id": "137",
+    "name": "Vicente Guaita",
+    "type": "Standard",
+    "image": "assets/cards/137.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "138",
+    "name": "Tyrick Mitchell",
+    "type": "Standard",
+    "image": "assets/cards/138.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "139",
+    "name": "Marc Guehi",
+    "type": "Standard",
+    "image": "assets/cards/139.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "140",
+    "name": "Joachim Andersen",
+    "type": "Standard",
+    "image": "assets/cards/140.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "141",
+    "name": "Chris Richards",
+    "type": "Standard",
+    "image": "assets/cards/141.png",
+    "club": "Crystal Palace",
+    "position": "Defender"
+  },
+  {
+    "id": "142",
+    "name": "Michael Olise",
+    "type": "Standard",
+    "image": "assets/cards/142.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "143",
+    "name": "Jerrerson Lerma",
+    "type": "Standard",
+    "image": "assets/cards/143.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "144",
+    "name": "Eberechi Eze",
+    "type": "Standard",
+    "image": "assets/cards/144.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "145",
+    "name": "Jeffrey Schlupp",
+    "type": "Standard",
+    "image": "assets/cards/145.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "146",
+    "name": "Will Hughes",
+    "type": "Standard",
+    "image": "assets/cards/146.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "147",
+    "name": "Cheick Doucoure",
+    "type": "Standard",
+    "image": "assets/cards/147.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "148",
+    "name": "Naouirou Ahamada",
+    "type": "Standard",
+    "image": "assets/cards/148.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "149",
+    "name": "Jairo Riedewald",
+    "type": "Standard",
+    "image": "assets/cards/149.png",
+    "club": "Crystal Palace",
+    "position": "Midfielder"
+  },
+  {
+    "id": "150",
+    "name": "Jordan Ayew",
+    "type": "Standard",
+    "image": "assets/cards/150.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "151",
+    "name": "Jean-Philippe Mateat",
+    "type": "Standard",
+    "image": "assets/cards/151.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "152",
+    "name": "Odsonne Edouard",
+    "type": "Standard",
+    "image": "assets/cards/152.png",
+    "club": "Crystal Palace",
+    "position": "Forward"
+  },
+  {
+    "id": "153",
+    "name": "Crystal Palace Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/153.png",
+    "club": "Crystal",
+    "position": "Forward"
+  },
+  {
+    "id": "154",
+    "name": "Everton Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/154.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "155",
+    "name": "Jordan Pickford",
+    "type": "Standard",
+    "image": "assets/cards/155.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "156",
+    "name": "James Tarkowski",
+    "type": "Standard",
+    "image": "assets/cards/156.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "157",
+    "name": "Nathan Patterson",
+    "type": "Standard",
+    "image": "assets/cards/157.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "158",
+    "name": "Mason Holgate",
+    "type": "Standard",
+    "image": "assets/cards/158.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "159",
+    "name": "Michael Keane",
+    "type": "Standard",
+    "image": "assets/cards/159.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "160",
+    "name": "Vitalii Mykolenko",
+    "type": "Standard",
+    "image": "assets/cards/160.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "161",
+    "name": "Ben Godfrey",
+    "type": "Standard",
+    "image": "assets/cards/161.png",
+    "club": "Everton",
+    "position": "Defender"
+  },
+  {
+    "id": "162",
+    "name": "Amadou Onana",
+    "type": "Standard",
+    "image": "assets/cards/162.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "163",
+    "name": "Abdoulaye Doucoure",
+    "type": "Standard",
+    "image": "assets/cards/163.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "164",
+    "name": "Alex Iwobi",
+    "type": "Standard",
+    "image": "assets/cards/164.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "165",
+    "name": "Idrissa Gana Gueye",
+    "type": "Standard",
+    "image": "assets/cards/165.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "166",
+    "name": "James Garner",
+    "type": "Standard",
+    "image": "assets/cards/166.png",
+    "club": "Everton",
+    "position": "Midfielder"
+  },
+  {
+    "id": "167",
+    "name": "Dwight McNeil",
+    "type": "Standard",
+    "image": "assets/cards/167.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "168",
+    "name": "Dominic Calvert-Lewin",
+    "type": "Standard",
+    "image": "assets/cards/168.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "169",
+    "name": "Demarai Gray",
+    "type": "Standard",
+    "image": "assets/cards/169.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "170",
+    "name": "Neal Maupay",
+    "type": "Standard",
+    "image": "assets/cards/170.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "171",
+    "name": "Everton Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/171.png",
+    "club": "Everton",
+    "position": "Forward"
+  },
+  {
+    "id": "172",
+    "name": "Fulham Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/172.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "173",
+    "name": "Bernd Leno",
+    "type": "Standard",
+    "image": "assets/cards/173.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "174",
+    "name": "Kenny Tete",
+    "type": "Standard",
+    "image": "assets/cards/174.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "175",
+    "name": "Tosin Adarabioyo",
+    "type": "Standard",
+    "image": "assets/cards/175.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "176",
+    "name": "Tim Ream",
+    "type": "Standard",
+    "image": "assets/cards/176.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "177",
+    "name": "Issa Diop",
+    "type": "Standard",
+    "image": "assets/cards/177.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "178",
+    "name": "Antonee Robinson",
+    "type": "Standard",
+    "image": "assets/cards/178.png",
+    "club": "Fulham",
+    "position": "Defender"
+  },
+  {
+    "id": "179",
+    "name": "Harrison Reed",
+    "type": "Standard",
+    "image": "assets/cards/179.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "180",
+    "name": "Harry Wilson",
+    "type": "Standard",
+    "image": "assets/cards/180.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "181",
+    "name": "Tom Cairney",
+    "type": "Standard",
+    "image": "assets/cards/181.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "182",
+    "name": "Andreas Pereira",
+    "type": "Standard",
+    "image": "assets/cards/182.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "183",
+    "name": "Joao Palhinha",
+    "type": "Standard",
+    "image": "assets/cards/183.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "184",
+    "name": "Sasa Lukic",
+    "type": "Standard",
+    "image": "assets/cards/184.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "185",
+    "name": "Luke Harris",
+    "type": "Standard",
+    "image": "assets/cards/185.png",
+    "club": "Fulham",
+    "position": "Midfielder"
+  },
+  {
+    "id": "186",
+    "name": "Alexsandar Mitrovic",
+    "type": "Standard",
+    "image": "assets/cards/186.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "187",
+    "name": "Bobby De Cordova-Reid",
+    "type": "Standard",
+    "image": "assets/cards/187.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "188",
+    "name": "Carlos Vinicius",
+    "type": "Standard",
+    "image": "assets/cards/188.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "189",
+    "name": "Fulham Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/189.png",
+    "club": "Fulham",
+    "position": "Forward"
+  },
+  {
+    "id": "190",
+    "name": "Liverpool Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/190.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "191",
+    "name": "Alisson",
+    "type": "Standard",
+    "image": "assets/cards/191.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "192",
+    "name": "Virgil Van Dijk",
+    "type": "Standard",
+    "image": "assets/cards/192.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "193",
+    "name": "Ibrahima Konate",
+    "type": "Standard",
+    "image": "assets/cards/193.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "194",
+    "name": "Andrew Robertson",
+    "type": "Standard",
+    "image": "assets/cards/194.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "195",
+    "name": "Trent Alexander-Arnold",
+    "type": "Standard",
+    "image": "assets/cards/195.png",
+    "club": "Liverpool",
+    "position": "Defender"
+  },
+  {
+    "id": "196",
+    "name": "Fabinho",
+    "type": "Standard",
+    "image": "assets/cards/196.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "197",
+    "name": "Thiago Alcantara",
+    "type": "Standard",
+    "image": "assets/cards/197.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "198",
+    "name": "Alexis Mac Allister",
+    "type": "Standard",
+    "image": "assets/cards/198.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "199",
+    "name": "Jordan Henderson",
+    "type": "Standard",
+    "image": "assets/cards/199.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "200",
+    "name": "Harvey Elliott",
+    "type": "Standard",
+    "image": "assets/cards/200.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "201",
+    "name": "Stefan Bajcetic",
+    "type": "Standard",
+    "image": "assets/cards/201.png",
+    "club": "Liverpool",
+    "position": "Midfielder"
+  },
+  {
+    "id": "202",
+    "name": "Mohamed Salah",
+    "type": "Standard",
+    "image": "assets/cards/202.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "203",
+    "name": "Cody Gakpo",
+    "type": "Standard",
+    "image": "assets/cards/203.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "204",
+    "name": "Diogo Jota",
+    "type": "Standard",
+    "image": "assets/cards/204.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "205",
+    "name": "Luis Diaz",
+    "type": "Standard",
+    "image": "assets/cards/205.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "206",
+    "name": "Darwin Nunez",
+    "type": "Standard",
+    "image": "assets/cards/206.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "207",
+    "name": "Liverpool Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/207.png",
+    "club": "Liverpool",
+    "position": "Forward"
+  },
+  {
+    "id": "208",
+    "name": "Luton Town Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/208.png",
+    "club": "Luton",
+    "position": "Forward"
+  },
+  {
+    "id": "209",
+    "name": "James Shea",
+    "type": "Standard",
+    "image": "assets/cards/209.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "210",
+    "name": "Dan Potts",
+    "type": "Standard",
+    "image": "assets/cards/210.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "211",
+    "name": "Tom Lockyer",
+    "type": "Standard",
+    "image": "assets/cards/211.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "212",
+    "name": "Reece Burke",
+    "type": "Standard",
+    "image": "assets/cards/212.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "213",
+    "name": "Amarii Bell",
+    "type": "Standard",
+    "image": "assets/cards/213.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "214",
+    "name": "Gabriel Osho",
+    "type": "Standard",
+    "image": "assets/cards/214.png",
+    "club": "Luton Town",
+    "position": "Defender"
+  },
+  {
+    "id": "215",
+    "name": "Pelly-Ruddock Mpanzu",
+    "type": "Standard",
+    "image": "assets/cards/215.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "216",
+    "name": "Jordan Clarke",
+    "type": "Standard",
+    "image": "assets/cards/216.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "217",
+    "name": "Allan Campbell",
+    "type": "Standard",
+    "image": "assets/cards/217.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "218",
+    "name": "Fred Onyedinma",
+    "type": "Standard",
+    "image": "assets/cards/218.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "219",
+    "name": "Luke Freeman",
+    "type": "Standard",
+    "image": "assets/cards/219.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "220",
+    "name": "Alfie Doughty",
+    "type": "Standard",
+    "image": "assets/cards/220.png",
+    "club": "Luton Town",
+    "position": "Midfielder"
+  },
+  {
+    "id": "221",
+    "name": "Carlton Morris",
+    "type": "Standard",
+    "image": "assets/cards/221.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "222",
+    "name": "Cauley Woodrow",
+    "type": "Standard",
+    "image": "assets/cards/222.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "223",
+    "name": "Elijah Adebayo",
+    "type": "Standard",
+    "image": "assets/cards/223.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "224",
+    "name": "Joe Taylor",
+    "type": "Standard",
+    "image": "assets/cards/224.png",
+    "club": "Luton Town",
+    "position": "Forward"
+  },
+  {
+    "id": "225",
+    "name": "Luton Town Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/225.png",
+    "club": "Luton",
+    "position": "Forward"
+  },
+  {
+    "id": "226",
+    "name": "Manchester City Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/226.png",
+    "club": "Manchester",
+    "position": "Forward"
+  },
+  {
+    "id": "227",
+    "name": "Ederson",
+    "type": "Standard",
+    "image": "assets/cards/227.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "228",
+    "name": "Kyle Walker",
+    "type": "Standard",
+    "image": "assets/cards/228.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "229",
+    "name": "Ruben Dias",
+    "type": "Standard",
+    "image": "assets/cards/229.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "230",
+    "name": "John Stones",
+    "type": "Standard",
+    "image": "assets/cards/230.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "231",
+    "name": "Nathan Ake",
+    "type": "Standard",
+    "image": "assets/cards/231.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "232",
+    "name": "Manuel Akanji",
+    "type": "Standard",
+    "image": "assets/cards/232.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "233",
+    "name": "Rico Lewis",
+    "type": "Standard",
+    "image": "assets/cards/233.png",
+    "club": "Manchester City",
+    "position": "Defender"
+  },
+  {
+    "id": "234",
+    "name": "Kalvin Phillips",
+    "type": "Standard",
+    "image": "assets/cards/234.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "235",
+    "name": "Jack Grealish",
+    "type": "Standard",
+    "image": "assets/cards/235.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "236",
+    "name": "Rodrigo",
+    "type": "Standard",
+    "image": "assets/cards/236.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "237",
+    "name": "Kevin De Bruyne",
+    "type": "Standard",
+    "image": "assets/cards/237.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "238",
+    "name": "Bernardo Silva",
+    "type": "Standard",
+    "image": "assets/cards/238.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "239",
+    "name": "Phil Foden",
+    "type": "Standard",
+    "image": "assets/cards/239.png",
+    "club": "Manchester City",
+    "position": "Midfielder"
+  },
+  {
+    "id": "240",
+    "name": "Erling Haaland",
+    "type": "Standard",
+    "image": "assets/cards/240.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "241",
+    "name": "Julian Alvarez",
+    "type": "Standard",
+    "image": "assets/cards/241.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "242",
+    "name": "Riyad Mahrez",
+    "type": "Standard",
+    "image": "assets/cards/242.png",
+    "club": "Manchester City",
+    "position": "Forward"
+  },
+  {
+    "id": "243",
+    "name": "Manchester City Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/243.png",
+    "club": "Manchester",
+    "position": "Forward"
+  },
+  {
+    "id": "244",
+    "name": "Manchester United Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/244.png",
+    "club": "Manchester",
+    "position": "Forward"
+  },
+  {
+    "id": "245",
+    "name": "David De Gea",
+    "type": "Standard",
+    "image": "assets/cards/245.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "246",
+    "name": "Harry Maguire",
+    "type": "Standard",
+    "image": "assets/cards/246.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "247",
+    "name": "Lisandro Martinez",
+    "type": "Standard",
+    "image": "assets/cards/247.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "248",
+    "name": "Tyrell Malacia",
+    "type": "Standard",
+    "image": "assets/cards/248.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "249",
+    "name": "Raphael Varane",
+    "type": "Standard",
+    "image": "assets/cards/249.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "250",
+    "name": "Diogo Dalot",
+    "type": "Standard",
+    "image": "assets/cards/250.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "251",
+    "name": "Luke Shaw",
+    "type": "Standard",
+    "image": "assets/cards/251.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "252",
+    "name": "Aaron Wan-Bissaka",
+    "type": "Standard",
+    "image": "assets/cards/252.png",
+    "club": "Manchester United",
+    "position": "Defender"
+  },
+  {
+    "id": "253",
+    "name": "Bruno Fernandes",
+    "type": "Standard",
+    "image": "assets/cards/253.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "254",
+    "name": "Christian Eriksen",
+    "type": "Standard",
+    "image": "assets/cards/254.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "255",
+    "name": "Fred",
+    "type": "Standard",
+    "image": "assets/cards/255.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "256",
+    "name": "Casemiro",
+    "type": "Standard",
+    "image": "assets/cards/256.png",
+    "club": "Manchester United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "257",
+    "name": "Marcus Rashford",
+    "type": "Standard",
+    "image": "assets/cards/257.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "258",
+    "name": "Antony",
+    "type": "Standard",
+    "image": "assets/cards/258.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "259",
+    "name": "Jadon Sancho",
+    "type": "Standard",
+    "image": "assets/cards/259.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "260",
+    "name": "Alejandro Garnacho",
+    "type": "Standard",
+    "image": "assets/cards/260.png",
+    "club": "Manchester United",
+    "position": "Forward"
+  },
+  {
+    "id": "261",
+    "name": "Manchester United Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/261.png",
+    "club": "Manchester",
+    "position": "Forward"
+  },
+  {
+    "id": "262",
+    "name": "Newcastle United Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/262.png",
+    "club": "Newcastle",
+    "position": "Forward"
+  },
+  {
+    "id": "263",
+    "name": "Nick Pope",
+    "type": "Standard",
+    "image": "assets/cards/263.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "264",
+    "name": "Kieran Trippier",
+    "type": "Standard",
+    "image": "assets/cards/264.png",
+    "club": "Newcastle United",
+    "position": "Defender"
+  },
+  {
+    "id": "265",
+    "name": "Sven Botman",
+    "type": "Standard",
+    "image": "assets/cards/265.png",
+    "club": "Newcastle United",
+    "position": "Defender"
+  },
+  {
+    "id": "266",
+    "name": "Fabian Schar",
+    "type": "Standard",
+    "image": "assets/cards/266.png",
+    "club": "Newcastle United",
+    "position": "Defender"
+  },
+  {
+    "id": "267",
+    "name": "Dan Burn",
+    "type": "Standard",
+    "image": "assets/cards/267.png",
+    "club": "Newcastle United",
+    "position": "Defender"
+  },
+  {
+    "id": "268",
+    "name": "Joelinton",
+    "type": "Standard",
+    "image": "assets/cards/268.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "269",
+    "name": "Jacob Murphy",
+    "type": "Standard",
+    "image": "assets/cards/269.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "270",
+    "name": "Miguel Almiron",
+    "type": "Standard",
+    "image": "assets/cards/270.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "271",
+    "name": "Joe Willock",
+    "type": "Standard",
+    "image": "assets/cards/271.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "272",
+    "name": "Elliot Anderson",
+    "type": "Standard",
+    "image": "assets/cards/272.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "273",
+    "name": "Sean Longstaff",
+    "type": "Standard",
+    "image": "assets/cards/273.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "274",
+    "name": "Bruno Guimares",
+    "type": "Standard",
+    "image": "assets/cards/274.png",
+    "club": "Newcastle United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "275",
+    "name": "Anthony Gordon",
+    "type": "Standard",
+    "image": "assets/cards/275.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "276",
+    "name": "Callum Wilson",
+    "type": "Standard",
+    "image": "assets/cards/276.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "277",
+    "name": "Allan Saint-Maximin",
+    "type": "Standard",
+    "image": "assets/cards/277.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "278",
+    "name": "Alexander Isak",
+    "type": "Standard",
+    "image": "assets/cards/278.png",
+    "club": "Newcastle United",
+    "position": "Forward"
+  },
+  {
+    "id": "279",
+    "name": "Newcastle United Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/279.png",
+    "club": "Newcastle",
+    "position": "Forward"
+  },
+  {
+    "id": "280",
+    "name": "Nottingham Forest Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/280.png",
+    "club": "Nottingham",
+    "position": "Forward"
+  },
+  {
+    "id": "281",
+    "name": "Wayne Hennessey",
+    "type": "Standard",
+    "image": "assets/cards/281.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "282",
+    "name": "Joe Worrall",
+    "type": "Standard",
+    "image": "assets/cards/282.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "283",
+    "name": "Neco Williams",
+    "type": "Standard",
+    "image": "assets/cards/283.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "284",
+    "name": "Moussa Niakhate",
+    "type": "Standard",
+    "image": "assets/cards/284.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "285",
+    "name": "Scott McKenna",
+    "type": "Standard",
+    "image": "assets/cards/285.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "286",
+    "name": "Willy Boly",
+    "type": "Standard",
+    "image": "assets/cards/286.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "287",
+    "name": "Felipe",
+    "type": "Standard",
+    "image": "assets/cards/287.png",
+    "club": "Nottingham Forest",
+    "position": "Defender"
+  },
+  {
+    "id": "288",
+    "name": "Orel Mangala",
+    "type": "Standard",
+    "image": "assets/cards/288.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "289",
+    "name": "Jonjo Shelvey",
+    "type": "Standard",
+    "image": "assets/cards/289.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "290",
+    "name": "Morgan Gibbs-White",
+    "type": "Standard",
+    "image": "assets/cards/290.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "291",
+    "name": "Ryan Yates",
+    "type": "Standard",
+    "image": "assets/cards/291.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "292",
+    "name": "Remo Freuler",
+    "type": "Standard",
+    "image": "assets/cards/292.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "293",
+    "name": "Danilo",
+    "type": "Standard",
+    "image": "assets/cards/293.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "294",
+    "name": "Gustavo Scarpa",
+    "type": "Standard",
+    "image": "assets/cards/294.png",
+    "club": "Nottingham Forest",
+    "position": "Midfielder"
+  },
+  {
+    "id": "295",
+    "name": "Taiwo Awoniyi",
+    "type": "Standard",
+    "image": "assets/cards/295.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "296",
+    "name": "Brennan Johnson",
+    "type": "Standard",
+    "image": "assets/cards/296.png",
+    "club": "Nottingham Forest",
+    "position": "Forward"
+  },
+  {
+    "id": "297",
+    "name": "Nottingham Forest Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/297.png",
+    "club": "Nottingham",
+    "position": "Forward"
+  },
+  {
+    "id": "298",
+    "name": "Sheffield United Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/298.png",
+    "club": "Sheffield",
+    "position": "Forward"
+  },
+  {
+    "id": "299",
+    "name": "Wes Fotheringham",
+    "type": "Standard",
+    "image": "assets/cards/299.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "300",
+    "name": "George Baldock",
+    "type": "Standard",
+    "image": "assets/cards/300.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "301",
+    "name": "Chris Basham",
+    "type": "Standard",
+    "image": "assets/cards/301.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "302",
+    "name": "John Egan",
+    "type": "Standard",
+    "image": "assets/cards/302.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "303",
+    "name": "Max Lowe",
+    "type": "Standard",
+    "image": "assets/cards/303.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "304",
+    "name": "Anel Ahmedhodzic",
+    "type": "Standard",
+    "image": "assets/cards/304.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "305",
+    "name": "Jayden Bogle",
+    "type": "Standard",
+    "image": "assets/cards/305.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "306",
+    "name": "Rhys Norrington-Davies",
+    "type": "Standard",
+    "image": "assets/cards/306.png",
+    "club": "Sheffield United",
+    "position": "Defender"
+  },
+  {
+    "id": "307",
+    "name": "John Fleck",
+    "type": "Standard",
+    "image": "assets/cards/307.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "308",
+    "name": "Sander Berge",
+    "type": "Standard",
+    "image": "assets/cards/308.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "309",
+    "name": "Oliver Norwood",
+    "type": "Standard",
+    "image": "assets/cards/309.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "310",
+    "name": "Oliver Arblaster",
+    "type": "Standard",
+    "image": "assets/cards/310.png",
+    "club": "Sheffield United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "311",
+    "name": "Rhian Brewster",
+    "type": "Standard",
+    "image": "assets/cards/311.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "312",
+    "name": "Oliver McBurnie",
+    "type": "Standard",
+    "image": "assets/cards/312.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "313",
+    "name": "William Osula",
+    "type": "Standard",
+    "image": "assets/cards/313.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "314",
+    "name": "Daniel Jebbison",
+    "type": "Standard",
+    "image": "assets/cards/314.png",
+    "club": "Sheffield United",
+    "position": "Forward"
+  },
+  {
+    "id": "315",
+    "name": "Sheffield United Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/315.png",
+    "club": "Sheffield",
+    "position": "Forward"
+  },
+  {
+    "id": "316",
+    "name": "Tottenham Hotspur Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/316.png",
+    "club": "Tottenham",
+    "position": "Forward"
+  },
+  {
+    "id": "317",
+    "name": "Hugo Lloris",
+    "type": "Standard",
+    "image": "assets/cards/317.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "318",
+    "name": "Davinson Sanchez",
+    "type": "Standard",
+    "image": "assets/cards/318.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "319",
+    "name": "Emerson Royal",
+    "type": "Standard",
+    "image": "assets/cards/319.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "320",
+    "name": "Eric Dier",
+    "type": "Standard",
+    "image": "assets/cards/320.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "321",
+    "name": "Cristian Romero",
+    "type": "Standard",
+    "image": "assets/cards/321.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "322",
+    "name": "Ryan Sessegnon",
+    "type": "Standard",
+    "image": "assets/cards/322.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "323",
+    "name": "Ben Davies",
+    "type": "Standard",
+    "image": "assets/cards/323.png",
+    "club": "Tottenham Hotspur",
+    "position": "Defender"
+  },
+  {
+    "id": "324",
+    "name": "Oliver Skipp",
+    "type": "Standard",
+    "image": "assets/cards/324.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "325",
+    "name": "Pierre-Emile Hojbjerg",
+    "type": "Standard",
+    "image": "assets/cards/325.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "326",
+    "name": "Ivan Perisic",
+    "type": "Standard",
+    "image": "assets/cards/326.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "327",
+    "name": "Pape Matar Sarr",
+    "type": "Standard",
+    "image": "assets/cards/327.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "328",
+    "name": "Rodrio Bentancur",
+    "type": "Standard",
+    "image": "assets/cards/328.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "329",
+    "name": "Yves Bissouma",
+    "type": "Standard",
+    "image": "assets/cards/329.png",
+    "club": "Tottenham Hotspur",
+    "position": "Midfielder"
+  },
+  {
+    "id": "330",
+    "name": "Son Heung-Min",
+    "type": "Standard",
+    "image": "assets/cards/330.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "331",
+    "name": "Richarlison",
+    "type": "Standard",
+    "image": "assets/cards/331.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "332",
+    "name": "Harry Kane",
+    "type": "Standard",
+    "image": "assets/cards/332.png",
+    "club": "Tottenham Hotspur",
+    "position": "Forward"
+  },
+  {
+    "id": "333",
+    "name": "Tottenham Hotspur Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/333.png",
+    "club": "Tottenham",
+    "position": "Forward"
+  },
+  {
+    "id": "334",
+    "name": "West Ham United Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/334.png",
+    "club": "West Ham",
+    "position": "Forward"
+  },
+  {
+    "id": "335",
+    "name": "Alphonse Areola",
+    "type": "Standard",
+    "image": "assets/cards/335.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "336",
+    "name": "Ben Johnson",
+    "type": "Standard",
+    "image": "assets/cards/336.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "337",
+    "name": "Kurt Zouma",
+    "type": "Standard",
+    "image": "assets/cards/337.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "338",
+    "name": "Thilo Kehrer",
+    "type": "Standard",
+    "image": "assets/cards/338.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "339",
+    "name": "Nayef Aguerd",
+    "type": "Standard",
+    "image": "assets/cards/339.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "340",
+    "name": "Emerson Palmieri",
+    "type": "Standard",
+    "image": "assets/cards/340.png",
+    "club": "West Ham United",
+    "position": "Defender"
+  },
+  {
+    "id": "341",
+    "name": "Pablo Fornals",
+    "type": "Standard",
+    "image": "assets/cards/341.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "342",
+    "name": "Lucas Paqueta",
+    "type": "Standard",
+    "image": "assets/cards/342.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "343",
+    "name": "Maxwel Cornet",
+    "type": "Standard",
+    "image": "assets/cards/343.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "344",
+    "name": "Tomas Soucek",
+    "type": "Standard",
+    "image": "assets/cards/344.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "345",
+    "name": "Declan Rice",
+    "type": "Standard",
+    "image": "assets/cards/345.png",
+    "club": "West Ham United",
+    "position": "Midfielder"
+  },
+  {
+    "id": "346",
+    "name": "Gianluca Scamacca",
+    "type": "Standard",
+    "image": "assets/cards/346.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "347",
+    "name": "Michail Antonio",
+    "type": "Standard",
+    "image": "assets/cards/347.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "348",
+    "name": "Danny Ings",
+    "type": "Standard",
+    "image": "assets/cards/348.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "349",
+    "name": "Jarrod Bowen",
+    "type": "Standard",
+    "image": "assets/cards/349.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "350",
+    "name": "Said Benrahma",
+    "type": "Standard",
+    "image": "assets/cards/350.png",
+    "club": "West Ham United",
+    "position": "Forward"
+  },
+  {
+    "id": "351",
+    "name": "West Ham United Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/351.png",
+    "club": "West Ham",
+    "position": "Forward"
+  },
+  {
+    "id": "352",
+    "name": "Wolverhampton Wanderers Club Crest",
+    "type": "Club Crest",
+    "image": "assets/cards/352.png",
+    "club": "Wolverhampton",
+    "position": "Forward"
+  },
+  {
+    "id": "353",
+    "name": "Jose Sa",
+    "type": "Standard",
+    "image": "assets/cards/353.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "354",
+    "name": "Nathan Collins",
+    "type": "Standard",
+    "image": "assets/cards/354.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "355",
+    "name": "Craid Dawson",
+    "type": "Standard",
+    "image": "assets/cards/355.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "356",
+    "name": "Jonny Otto",
+    "type": "Standard",
+    "image": "assets/cards/356.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "357",
+    "name": "Nelson Semedo",
+    "type": "Standard",
+    "image": "assets/cards/357.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "358",
+    "name": "Max Kilman",
+    "type": "Standard",
+    "image": "assets/cards/358.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "359",
+    "name": "Hugo Bueno",
+    "type": "Standard",
+    "image": "assets/cards/359.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Defender"
+  },
+  {
+    "id": "360",
+    "name": "Mario Lemina",
+    "type": "Standard",
+    "image": "assets/cards/360.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "361",
+    "name": "Ruben Neves",
+    "type": "Standard",
+    "image": "assets/cards/361.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "362",
+    "name": "Pablo Sarabia",
+    "type": "Standard",
+    "image": "assets/cards/362.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "363",
+    "name": "Matheus Nunes",
+    "type": "Standard",
+    "image": "assets/cards/363.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Midfielder"
+  },
+  {
+    "id": "364",
+    "name": "Pedro Neto",
+    "type": "Standard",
+    "image": "assets/cards/364.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "365",
+    "name": "Raul Jimenez",
+    "type": "Standard",
+    "image": "assets/cards/365.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "366",
+    "name": "Daniel Podence",
+    "type": "Standard",
+    "image": "assets/cards/366.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "367",
+    "name": "Hwang Hee-Chan",
+    "type": "Standard",
+    "image": "assets/cards/367.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "368",
+    "name": "Matheus Cunha",
+    "type": "Standard",
+    "image": "assets/cards/368.png",
+    "club": "Wolverhampton Wanderers",
+    "position": "Forward"
+  },
+  {
+    "id": "369",
+    "name": "Wolverhampton Wanderers Line-Up",
+    "type": "Team Line-Ups",
+    "image": "assets/cards/369.png",
+    "club": "Wolverhampton",
+    "position": "Forward"
+  }
+]
