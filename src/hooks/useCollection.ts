@@ -1,31 +1,50 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { Collection } from '../types/Collection';
 
-export const useCollection = (id: string) => {
-  const [value, setValue] = useState(0);
+export const useCollection = () => {
+  const [collection, setCollection] = useState<Collection>({});
   useEffect(() => {
     (async () => {
-      const jsonValue = (await AsyncStorage.getItem(id)) ?? '0';
-      setValue(parseInt(jsonValue, 10));
+      const jsonValue = JSON.parse(
+        (await AsyncStorage.getItem('collection')) ?? '{}'
+      );
+      setCollection(jsonValue);
     })();
-  }, [id]);
+  }, []);
 
-  const updateValue = async (newValue: number) => {
-    const jsonValue = JSON.stringify(newValue);
-    await AsyncStorage.setItem(id, jsonValue);
-    setValue(newValue);
-  };
+  const updateCollection = useCallback(
+    async (id: string, newValue: number) => {
+      await AsyncStorage.mergeItem(
+        'collection',
+        JSON.stringify({ [id]: newValue })
+      );
+      setCollection((prev) => ({
+        ...prev,
+        [id]: newValue,
+      }));
+    },
+    [collection]
+  );
 
-  const incrementValue = async () => {
-    await updateValue(value + 1);
-  };
+  const incrementValue = useCallback(
+    async (id: string) => {
+      const currentValue = collection[id] ?? 0;
+      await updateCollection(id, currentValue + 1);
+    },
+    [collection]
+  );
 
-  const decrementValue = async () => {
-    await updateValue(Math.max(value - 1, 0));
-  };
+  const decrementValue = useCallback(
+    async (id: string) => {
+      const currentValue = collection[id] ?? 0;
+      await updateCollection(id, Math.max(currentValue - 1, 0));
+    },
+    [collection]
+  );
 
   return {
-    collected: value,
+    collection,
     increment: incrementValue,
     decrement: decrementValue,
   };

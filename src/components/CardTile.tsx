@@ -3,15 +3,20 @@ import { Card } from '../types/Card';
 import { CardImages } from '../data/card-images';
 
 import Ionicons from '@expo/vector-icons/Ionicons';
-import { useCollection } from '../hooks/useCollection';
 
 interface Props {
   card: Card;
+  numCollected: number;
+  increment: (id: string) => void;
+  decrement: (id: string) => void;
 }
 
-export const CardTile = ({ card }: Props) => {
-  const { collected, decrement, increment } = useCollection(card.id);
-
+export const CardTile = ({
+  card,
+  numCollected,
+  increment,
+  decrement,
+}: Props) => {
   return (
     <View style={styles.tile}>
       <View style={styles.tileContent}>
@@ -27,7 +32,9 @@ export const CardTile = ({ card }: Props) => {
         <View style={styles.dataContainer}>
           <View style={styles.header}>
             <Text style={styles.id}>{card.id}</Text>
-            <Text style={styles.name}>{card.name}</Text>
+            <Text style={styles.name} numberOfLines={1}>
+              {card.name}
+            </Text>
           </View>
           <View>
             <Text>{card.type}</Text>
@@ -46,11 +53,11 @@ export const CardTile = ({ card }: Props) => {
                 color="black"
                 backgroundColor="white"
                 iconStyle={{ marginRight: -5 }}
-                onPress={() => decrement()}
+                onPress={() => decrement(card.id)}
               />
             </View>
             <View>
-              <Text style={styles.collectionCount}>{collected}</Text>
+              <Text style={styles.collectionCount}>{numCollected}</Text>
             </View>
             <View>
               <Ionicons.Button
@@ -58,7 +65,7 @@ export const CardTile = ({ card }: Props) => {
                 size={40}
                 color="black"
                 backgroundColor="white"
-                onPress={() => increment()}
+                onPress={() => increment(card.id)}
               />
             </View>
           </View>
@@ -95,6 +102,7 @@ const styles = StyleSheet.create({
   header: {
     display: 'flex',
     flexDirection: 'row',
+    overflow: 'hidden',
   },
   id: {
     fontSize: 20,
@@ -102,6 +110,7 @@ const styles = StyleSheet.create({
   },
   name: {
     fontSize: 20,
+    flex: 1,
   },
   collectionContainer: {
     display: 'flex',
