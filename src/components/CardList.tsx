@@ -19,7 +19,7 @@ export const CardList = ({
   return (
     <FlashList
       data={cards}
-      estimatedItemSize={180}
+      estimatedItemSize={162}
       numColumns={1}
       extraData={collection}
       renderItem={({ item }) => (
