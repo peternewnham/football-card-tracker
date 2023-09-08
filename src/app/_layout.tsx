@@ -16,6 +16,9 @@ export default function AppLayout() {
               <BottomNavigation.Bar
                 navigationState={{
                   ...state,
+                  routes: state.routes.filter(
+                    (route) => route.name === 'index' || route.name === 'stats'
+                  ),
                 }}
                 onTabPress={({ route }) => {
                   navigation.navigate(route);
