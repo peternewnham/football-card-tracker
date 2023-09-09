@@ -1,7 +1,14 @@
-import { Image, StyleSheet, View } from 'react-native';
+import {
+  Image,
+  StyleSheet,
+  Touchable,
+  TouchableHighlight,
+  View,
+} from 'react-native';
 import { Card } from '../types/Card';
 import { CardImages } from '../data/card-images';
 import { IconButton, Text } from 'react-native-paper';
+import { useRouter } from 'expo-router';
 
 interface Props {
   card: Card;
@@ -16,18 +23,30 @@ export const CardTile = ({
   increment,
   decrement,
 }: Props) => {
+  const router = useRouter();
   return (
     <View style={styles.tile}>
       <View style={styles.tileContent}>
         <View style={styles.imageContainer}>
           <Text style={styles.cardId}>{card.id}</Text>
-          <Image
-            source={CardImages[card.id as keyof typeof CardImages]}
-            style={styles.image}
-            height={180}
-            width={128}
-            resizeMode="contain"
-          />
+          <TouchableHighlight
+            onPress={() =>
+              router.push({
+                pathname: 'card/[id]',
+                params: {
+                  id: card.id,
+                },
+              })
+            }
+          >
+            <Image
+              source={CardImages[card.id as keyof typeof CardImages]}
+              style={styles.image}
+              height={180}
+              width={128}
+              resizeMode="contain"
+            />
+          </TouchableHighlight>
         </View>
         <View style={styles.dataContainer}>
           <Text style={styles.cardType}>{card.type}</Text>

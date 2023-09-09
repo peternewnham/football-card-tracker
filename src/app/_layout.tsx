@@ -1,71 +1,36 @@
-import { Tabs } from 'expo-router';
-import { BottomNavigation, PaperProvider } from 'react-native-paper';
-import { MaterialCommunityIcons } from '@expo/vector-icons';
+import { Stack, useRouter } from 'expo-router';
+import { IconButton, PaperProvider } from 'react-native-paper';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { View } from 'react-native';
+
+const BackHeader = () => {
+  const router = useRouter();
+  return (
+    <View>
+      <IconButton icon="arrow-left" size={32} onPress={() => router.back()} />
+    </View>
+  );
+};
 
 export default function AppLayout() {
   return (
     <PaperProvider>
       <SafeAreaView style={{ flex: 1 }}>
-        <Tabs
+        <Stack
           screenOptions={{
             headerShown: false,
           }}
-          tabBar={({ navigation, state, descriptors }) => {
-            return (
-              <BottomNavigation.Bar
-                navigationState={{
-                  ...state,
-                  routes: state.routes.filter(
-                    (route) => route.name === 'index' || route.name === 'stats'
-                  ),
-                }}
-                onTabPress={({ route }) => {
-                  navigation.navigate(route);
-                }}
-                renderIcon={({ route, focused, color }) => {
-                  const { options } = descriptors[route.key];
-                  if (options.tabBarIcon) {
-                    return options.tabBarIcon({ focused, color, size: 24 });
-                  }
-                }}
-                getLabelText={({ route }) => {
-                  const { options } = descriptors[route.key];
-                  return options.title;
-                }}
-              />
-            );
-          }}
         >
-          <Tabs.Screen
-            name="index"
+          <Stack.Screen
+            name="card/[id]"
             options={{
-              title: 'Collection',
-              tabBarLabel: 'Collection',
-              tabBarIcon: ({ color, size }) => (
-                <MaterialCommunityIcons
-                  name="book-open-variant"
-                  size={size}
-                  color={color}
-                />
-              ),
+              presentation: 'modal',
+              animation: 'flip',
+              headerShown: true,
+              header: BackHeader,
             }}
           />
-          <Tabs.Screen
-            name="stats"
-            options={{
-              title: 'Stats',
-              tabBarLabel: 'Stats',
-              tabBarIcon: ({ color, size }) => (
-                <MaterialCommunityIcons
-                  name="chart-box"
-                  size={size}
-                  color={color}
-                />
-              ),
-            }}
-          />
-        </Tabs>
+        </Stack>
       </SafeAreaView>
     </PaperProvider>
   );

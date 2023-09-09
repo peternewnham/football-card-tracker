@@ -1,6 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import { useCollection } from '../hooks/useCollection';
-import { Cards } from '../data/cards';
+import { useCollection } from '../../hooks/useCollection';
+import { Cards } from '../../data/cards';
 import { useMemo } from 'react';
 import { Text, useTheme } from 'react-native-paper';
 import { FlashList } from '@shopify/flash-list';

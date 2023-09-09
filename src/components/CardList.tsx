@@ -2,6 +2,7 @@ import { FlashList } from '@shopify/flash-list';
 import { Card } from '../types/Card';
 import { CardTile } from './CardTile';
 import { Collection } from '../types/Collection';
+import { View } from 'react-native';
 
 interface Props {
   cards: Card[];

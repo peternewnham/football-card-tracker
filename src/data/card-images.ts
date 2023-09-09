@@ -534,4 +534,13 @@ export const CardImages = {
   ALEG3SIG: require('../../assets/cards/ALEG3SIG.jpeg'),
   ALEG4SIG: require('../../assets/cards/ALEG4SIG.jpeg'),
   ALEG5SIG: require('../../assets/cards/ALEG5SIG.png'),
+  P1: require('../../assets/cards/P1.jpeg'),
+  P2: require('../../assets/cards/P2.jpeg'),
+  P3: require('../../assets/cards/P3.jpeg'),
+  P4: require('../../assets/cards/P4.jpeg'),
+  P5: require('../../assets/cards/P5.jpeg'),
+  P6: require('../../assets/cards/P6.jpeg'),
+  P7: require('../../assets/cards/P7.jpeg'),
+  P8: require('../../assets/cards/P8.jpeg'),
+  P9: require('../../assets/cards/P9.jpeg'),
 } as const;

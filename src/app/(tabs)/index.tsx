@@ -1,8 +1,8 @@
-import { CardList } from '../components/CardList';
-import { Cards } from '../data/cards';
+import { CardList } from '../../components/CardList';
+import { Cards } from '../../data/cards';
 import { StyleSheet, TextInput, View } from 'react-native';
 import { useState } from 'react';
-import { useCollection } from '../hooks/useCollection';
+import { useCollection } from '../../hooks/useCollection';
 import { Dropdown } from 'react-native-element-dropdown';
 
 export default function IndexScreen() {
